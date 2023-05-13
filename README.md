@@ -4,7 +4,8 @@ Today I learned is a web application that contains interesting facts from differ
 The app is built using React, it is designed with CSS and uses Supabase as the backend.
 
 The app is deployed on Netlify: https://rpivac00-today-i-learned.netlify.app/
-*deployed app has functionality issues since supabase is pausing free-tier projects to save on cloud resources 
+
+*deployed app has functionality issues since supabase is pausing free-tier projects to save on cloud resources*
 
 ## Description
 
